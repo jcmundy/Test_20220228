@@ -1,0 +1,19 @@
+---
+box:
+  name: box
+ocr:
+  name: ocr
+pin:
+  name: pin
+squiggle:
+  name: squiggle
+circle:
+  name: circle
+blue:
+  name: blue
+shape:
+  name: shape
+text:
+  name: text
+pink:
+  name: pink
